@@ -1,1 +1,1 @@
-Forge is an application intended to streamline the portfolio creation and approval process. This application will allow associates to create portfolios through an intuitive UI, and have basic form validation before submitting the portfolio for review. Once submitted, admins will be able to review and approve or deny portfolios.
+
